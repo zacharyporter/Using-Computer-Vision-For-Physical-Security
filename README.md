@@ -11,7 +11,7 @@ The first model will detect Backpacks, Laptops, and a USB'
 
 
 The second model will detect whether computer ports are open or if a USB is detected.
-  - If a USB is connected and the objects switch from Ports_Open to USB_Detected a log will be created with a timestamp
+  - If a USB is connected and the objects switch from Ports_Open to USB_Detected a log will be created with a timestamp.
   - If a USB is disconnected and the objects switch from USB_Detected to Ports_Open a log will be created with a timestamp. 
 
 Both of these models were aimed at creating software for physical security that was both cost effective and efficient. 
